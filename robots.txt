@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://ewugioso.github.io/Naq/sitemap_index.txt
+Sitemap: https://ewugioso.github.io/YNQ/sitemap_index.txt
+Sitemap: https://ewugioso.github.io/cMB/sitemap_index.txt
+Sitemap: https://ewugioso.github.io/dol/sitemap_index.txt
